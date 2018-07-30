@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+  <test name="FirstTest" >
+    <classes>
+       <class name="sel.dice.selfw.selfwscratch.FirstClass" />
+    </classes>
+  </test>
+  
+  <test name="SecondTest" >
+    <classes>
+       <class name="sel.dice.selfw.selfwscratch.SecondTest" />
+    </classes>
+  </test>
+</suite>
